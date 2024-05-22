@@ -4,8 +4,11 @@ title: Jingi Yeo
 permalink: /about/
 ---
 
-나는 여진기다.
+Hi
 
-나는 여진기다.
+#### Education
+* B.Sc. in Biomedical Engineering, 2023, Korea University, Seoul
+* Integrated Ph.D in Bioinformatics, 2023~, Seoul National University, Seoul.
 
-여기는 내 설명 페이지다.
+#### Publication
+* [Barrio-Hernandez I & Yeo J et al. Clustering predicted structures at the scale of the known protein universe. Nature, doi:10.1038/s41586-023-06510-w (2023)](https://www.nature.com/articles/s41586-023-06510-w)
