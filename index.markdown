@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: 
 ---
 
-# Hi, this is Jingi.
-
-Nice to meet you
+Hi, this is Jingi's personal blog page
