@@ -6,4 +6,4 @@ layout: home
 title: 
 ---
 
-Hi, this is Jingi's personal blog page
+여진기 개인 블로그입니다

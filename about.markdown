@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Jingi Yeo
+title: 여진기
 permalink: /about/
 ---
 
-Hi, I'm Jingi.  
-This page is to post essays.   
-I'm a man of thoughts and curiosity. Hope I find friends who can resonate with my ideas and thoughts.
+안녕하세요, 여진기입니다. 
 
 #### Education
 * B.Sc. in Biomedical Engineering, 2023, Korea University, Seoul
